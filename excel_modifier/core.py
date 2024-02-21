@@ -13,7 +13,7 @@ class Excel:
 
     def _validate_file_path(self):
         if not os.path.isfile(self.path):
-            raise FileNotFoundError(f"The file {self.path} was not found.")
+            raise FileNotFoundError(f"The file {self.path} was not found!")
 
     def get_worksheets(self):
         with zipfile.ZipFile(self.path) as zip_ref:
