@@ -1,0 +1,7 @@
+setup.py
+excel_modifier.egg-info/PKG-INFO
+excel_modifier.egg-info/SOURCES.txt
+excel_modifier.egg-info/dependency_links.txt
+excel_modifier.egg-info/not-zip-safe
+excel_modifier.egg-info/requires.txt
+excel_modifier.egg-info/top_level.txt
